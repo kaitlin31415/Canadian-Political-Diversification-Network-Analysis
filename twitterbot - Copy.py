@@ -1,6 +1,7 @@
 import tweepy
 from datetime import datetime
 import csv
+import time
 
 #developer data
 api_key = ""
@@ -43,13 +44,21 @@ f = open('out.csv', 'w')
 writer = csv.writer(f)
 
 #since sept 20 2021 ,start_time="2021-09-20T00:0:00Z"
+waiter = 0
 for item in lines:
     query = (query1 + item + query2)
     data = client.search_recent_tweets(query)
     if data[0] != None:
         for tweet in data[0]:
+            if waiter % 50 == 1:
+                print("waiting....")
+                for i in range (15):
+                    print (str(15-i) + " minutes remaining")
+                    time.sleep(60)
+                time.sleep(15)
             tweet_id = tweet.id
             rt = api.get_retweets(tweet_id)
+            waiter =+ 1
             retweets = (len(rt))
             line = (item + "," + str(tweet_id) + "," + str(retweets) + "\n")
             f.write(line)
