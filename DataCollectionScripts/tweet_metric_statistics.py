@@ -15,8 +15,11 @@ payload={}
 headers = {
   'Authorization': 'Bearer ' + bearerToken
 }
-f = open('out.csv', 'w')
+f = open('All_tweet_info_after_election.csv', 'w')
 writer = csv.writer(f)
+
+f1 = open('All_tweet_info_after_election_tweetBank.csv', 'w')
+writer1 = csv.writer(f1)
 
 lines = [x.rstrip('\n') for x in open(filename,'r')]
 count = 0
@@ -27,7 +30,7 @@ for user in lines:
         for i in range(15):
             print("Idle wait time remaining: {} minutes".format(str(15 - i)))
             time.sleep(60)
-
+        time.sleep(30)
 
     response = requests.request("GET", userIdByUsernameUrl+user, headers=headers, data=payload)
 
@@ -42,7 +45,9 @@ for user in lines:
     #loop through each tweet in data 
     if ("data" in response.json()):
         for tweet in response.json()["data"]:
-            f.write("{userid},{username},{tweetid},{retweetCount},{likeCount}\n".format(userid=id,username=user, tweetid=tweet["id"], retweetCount=tweet["public_metrics"]["retweet_count"], likeCount=tweet["public_metrics"]["like_count"]))
+            isRT = "RT @" in tweet["text"]
+            f.write("{userid},{username},{tweetid},{retweetCount},{likeCount},{isRetweet},{dateCreated}\n".format(userid=id,username=user, tweetid=tweet["id"], retweetCount=tweet["public_metrics"]["retweet_count"], likeCount=tweet["public_metrics"]["like_count"], isRetweet=isRT, dateCreated=tweet["created_at"]))
 
+            f1.write("{userid},{username},{tweetid},{text}\n\n\n".format(userid=id,username=user, tweetid=tweet["id"],text=tweet["text"]))
 
 # get the retweet count, like count, & quote count and place in CSV
