@@ -2,10 +2,10 @@ import requests
 import csv
 import time
 
-bearerToken=""
+bearerToken="AAAAAAAAAAAAAAAAAAAAAC97UgEAAAAAjENmObmg673HYDscOYr8MuEsvok%3DyqP3YtlTi3b2PcE79WeIsiElonjPXaZA795Rnnuh9zkH7W9WmG"
 
 # Get the id from username 
-filename="../data.txt"
+filename="pal.csv"
 
 userIdByUsernameUrl = "https://api.twitter.com/2/users/by/username/"
 
