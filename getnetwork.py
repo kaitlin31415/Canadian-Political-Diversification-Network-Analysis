@@ -2,9 +2,9 @@ import tweepy
 import csv
 import time
 
-api_key = ""
-api_key_secret = ""
-bearer_token = ""
+api_key = "PDLxY2RQkxTalRBtgZ2mptBd0"
+api_key_secret = "QhV7CKYbPeN69tLMSb0el59rYEwJU4MRQdmG8bonI8TIgnCSTJ"
+bearer_token = "AAAAAAAAAAAAAAAAAAAAAC97UgEAAAAAjENmObmg673HYDscOYr8MuEsvok%3DyqP3YtlTi3b2PcE79WeIsiElonjPXaZA795Rnnuh9zkH7W9WmG"
 access_token = ""
 access_token_secret = ""
 
@@ -26,7 +26,7 @@ except:
     print("Error during authentication")
 
 
-lines = [x.rstrip('\n') for x in open('validTweets_1.csv','r')]
+lines = [x.rstrip('\n') for x in open('another_set_of_tweets.csv','r')]
 blah = []
 
 for var in lines:
@@ -43,7 +43,7 @@ for var in lines:
 query1="from:" 
 query2=" -is:retweet"
 
-f = open('output.csv', 'w')
+f = open('output_kaitlin_3.csv', 'w')
 writer = csv.writer(f)
 
 
