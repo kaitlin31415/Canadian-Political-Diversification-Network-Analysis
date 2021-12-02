@@ -258,7 +258,7 @@ def directed_connected_double_edge_swap(G, nswap=1, _window_threshold=3, seed=No
                 window = int(math.ceil(window / 2))
     return swapcount
 
-for i in range(1000,2000):
+for i in range(2000,2300):
     H = G.copy()
     directed_connected_double_edge_swap(H, nswap=20*len( G.edges() ))
     nx.write_weighted_edgelist(H, "Directed_Unweighted_Models/Directed_Unweighted_Random_Null_Model_{}".format(i))
