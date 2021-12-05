@@ -1,0 +1,4 @@
+,Source Comm Interaction Count,Target Comm Interaction Count,Id,Label,timeset,twittername,first name,last name,political affiliation,influence,betweenness_centrality,communityid,out_degree_centrality,in_degree_centrality,polygon
+225,0.0,4.0,196717787,,,alexboulerice,Alexandre,Boulerice,NDP,0.076489,815552.738636,2.0,0.000223,0.007819,6
+222,0.0,4.0,215632349,,,CharlieAngusNDP,Charlie,Angus,NDP,0.245437,4958323.6578,2.0,0.000335,0.04222,6
+1574,4.0,,596787864,,,,,,,0.0038770000000000002,1321371.241195,1.0,0.0018989999999999999,0.0,1
