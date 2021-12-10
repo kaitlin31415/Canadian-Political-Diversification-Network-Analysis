@@ -1,0 +1,12 @@
+,Source Comm Interaction Count,Target Comm Interaction Count,Id,Label,timeset,twittername,first name,last name,political affiliation,influence,betweenness_centrality,communityid,out_degree_centrality,in_degree_centrality,polygon
+215,0.0,3.0,1707636642,,,FP_Champagne,François-Philippe,Champagne,Liberal,0.198697,2610868.386972,1.0,0.00011200000000000001,0.024684,6
+138,0.0,3.0,205786669,,,PamDamoff,Pam,Damoff,Liberal,0.07033099999999999,1012661.8279190001,1.0,0.000335,0.01318,6
+74,0.0,3.0,343059330,,,Eric_Melillo,Eric,Melillo,Conservative,0.033338,546327.727789,3.0,0.00011200000000000001,0.007372,6
+91,0.0,3.0,36133644,,,gerarddeltell,Gérard,Deltell,Conservative,0.076073,1443832.511074,3.0,0.00011200000000000001,0.01385,6
+124,,3.0,20199202,,,OmarAlghabra,Omar,Alghabra,Liberal,0.151399,1875414.88951,1.0,0.0,0.023568000000000002,6
+259,,3.0,14079041,,,,,,Activist Organization,0.203518,3091532.81163,2.0,0.0,0.036412,3
+96,,3.0,256360738,,,AndrewScheer,Andrew,Scheer,Conservative,0.027523000000000002,433765.773983,3.0,0.0,0.006813,6
+28,,3.0,737359208945844224,,,BobBenzen,Bob,Benzen,Conservative,0.084896,1233496.3266780002,3.0,0.0,0.015972,6
+20,,3.0,24990450,,,renevillemure,René,Villemure,Bloc Québécois,0.068354,595854.835476,4.0,0.0,0.008489,6
+3652,3.0,,12034642,,,,,,,0.0038770000000000002,210175.768781,3.0,0.001005,0.0,1
+945,3.0,,711980580813066240,,,,,,,0.0038770000000000002,736622.894841,2.0,0.000782,0.0,1

@@ -1,0 +1,92 @@
+,id,Id,Label,timeset,communityid,twittername,first name,last name,political affiliation,indegree,outdegree,degree,eigencentrality,community,polygon
+0,18681111,18681111,,,2,,,,Activist Organization,46,0,46,0.025898,NDP,3
+1,59686058,59686058,,,2,,,,Activist Organization,11,0,11,0.021728,NDP,3
+2,150270263,150270263,,,1,,,,Activist Organization,30,1,31,0.037561000000000004,Liberal,3
+3,119925381,119925381,,,5,,,,Activist Organization,108,0,108,0.080274,LGBTQ2S+,3
+4,294660973,294660973,,,5,,,,Activist Organization,63,1,64,0.014769,LGBTQ2S+,3
+5,14079041,14079041,,,2,,,,Activist Organization,326,0,326,0.198776,NDP,3
+6,17969963,17969963,,,3,,,,Activist Organization,30,0,30,0.067743,Conservative,3
+7,2715275551,2715275551,,,2,,,,Activist Organization,78,0,78,0.086319,NDP,3
+8,377588094,377588094,,,2,,,,Activist Organization,52,0,52,0.086319,NDP,3
+9,1342125115383939073,1342125115383939073,,,4,JeanDenisGaron1,Jean-Denis,Garon,Bloc Québécois,119,6,125,0.8286129999999999,Bloc Québécois,6
+10,273262205,273262205,,,4,A_Larouche_Shef,Andréanne,Larouche,Bloc Québécois,56,0,56,0.468059,Bloc Québécois,6
+11,24990450,24990450,,,4,renevillemure,René,Villemure,Bloc Québécois,76,0,76,0.682667,Bloc Québécois,6
+12,3025416359,3025416359,,,4,yvesperronbq,Yves,Perron,Bloc Québécois,35,0,35,0.45145,Bloc Québécois,6
+13,1425866189780160514,1425866189780160514,,,4,POhara2021,Patrick,O'Hara,Bloc Québécois,23,4,27,0.319997,Bloc Québécois,6
+14,2530008414,2530008414,,,4,krimichaudbq,Kristina,Michaud,Bloc Québécois,81,1,82,0.358624,Bloc Québécois,6
+15,2800741820,2800741820,,,4,trudel_denis,Denis,Trudel,Bloc Québécois,107,0,107,0.43111099999999997,Bloc Québécois,6
+16,16014404,16014404,,,4,sbergeron,Stéphane,Bergeron,Bloc Québécois,73,4,77,0.556683,Bloc Québécois,6
+17,1063494232126689280,1063494232126689280,,,4,JulieVignolaBL,Julie,Vignola,Bloc Québécois,144,0,144,0.446719,Bloc Québécois,6
+18,408072407,408072407,,,1,DarrenFisherNS,Darren,Fisher,Liberal,56,0,56,0.308516,Liberal,6
+19,234550882,234550882,,,1,stbstvdan,Dan,Vandal,Liberal,49,1,50,0.383945,Liberal,6
+20,3402128080,3402128080,,,4,GillMarilene,Marilène,Gill,Bloc Québécois,23,0,23,0.302061,Bloc Québécois,6
+21,803381983,803381983,,,4,Alduceppe,Alexis,Brunelle-Duceppe,Bloc Québécois,54,1,55,0.239779,Bloc Québécois,6
+22,261772246,261772246,,,4,mariosimardbq,Mario,Simard,Bloc Québécois,30,3,33,0.162127,Bloc Québécois,6
+23,417389780,417389780,,,1,Chris_Bittle,Chris,Bittle,Liberal,148,1,149,0.442651,Liberal,6
+24,1170770038208565248,1170770038208565248,,,1,AnnieKoutrakis,Annie,Koutrakis,Liberal,46,0,46,0.16655999999999999,Liberal,6
+25,1707636642,1707636642,,,1,FP_Champagne,François-Philippe,Champagne,Liberal,221,1,222,0.890906,Liberal,6
+26,1143229947932229632,1143229947932229632,,,4,LucDesiletsBQ,Luc,Desilets,Bloc Québécois,175,1,176,0.5563140000000001,Bloc Québécois,6
+27,2254171724,2254171724,,,3,RonLiepert,Ron,Liepert,Conservative,9,0,9,0.099226,Conservative,6
+28,2555308646,2555308646,,,3,PatKelly_MP,Pat,Kelly,Conservative,32,0,32,0.143348,Conservative,6
+29,739149720,739149720,,,3,mferreriptbokaw,Michelle,Ferreri,Conservative,246,1,247,0.5682689999999999,Conservative,6
+30,989311745100566529,989311745100566529,,,3,PLawrenceMP,Philip,Lawrence,Conservative,50,1,51,0.20638,Conservative,6
+31,268832287,268832287,,,3,LucBerthold,Luc,Berthold,Conservative,21,3,24,0.366627,Conservative,6
+32,883774859452579840,883774859452579840,,,3,DougShipleyBSOM,Doug,Shipley,Conservative,106,0,106,0.23600300000000002,Conservative,6
+33,15810950,15810950,,,3,jeneroux,Matt,Jeneroux,Conservative,33,0,33,0.108454,Conservative,6
+34,129395750,129395750,,,3,MikeLakeMP,Mike,Lake,Conservative,47,2,49,0.132925,Conservative,6
+35,791282631006621696,791282631006621696,,,3,MarilynGladuSL,Marilyn,Gladu,Conservative,45,0,45,0.09529,Conservative,6
+36,256552850,256552850,,,3,Jamie_Schmale,Jamie,Schmale,Conservative,8,0,8,0.220259,Conservative,6
+37,1086084557009575936,1086084557009575936,,,3,AlexRuff17,Alex,Ruff,Conservative,80,0,80,0.16800199999999998,Conservative,6
+38,36133644,36133644,,,3,gerarddeltell,Gérard,Deltell,Conservative,124,1,125,0.416202,Conservative,6
+39,34606493,34606493,,,3,JohnNaterMP,John,Nater,Conservative,31,0,31,0.090955,Conservative,6
+40,564207331,564207331,,,3,MichaelKramSK,Michael,Kram,Conservative,48,0,48,0.15398699999999999,Conservative,6
+41,414218319,414218319,,,3,AlainRayes,Alain,Rayes,Conservative,49,1,50,0.300628,Conservative,6
+42,943174774154498048,943174774154498048,,,3,richardmartelpc,Richard,Martel,Conservative,16,2,18,0.13211199999999998,Conservative,6
+43,412708728,412708728,,,3,PierrePaulHus,Pierre,Paul-Hus,Conservative,155,1,156,0.38424,Conservative,6
+44,2852899113,2852899113,,,1,CQualtro,Carla,Qualtrough,Liberal,122,0,122,0.638522,Liberal,6
+45,240786249,240786249,,,1,YvonneJJones,Yvonne,Jones,Liberal,22,3,25,0.330466,Liberal,6
+46,1318671397560979456,1318671397560979456,,,1,Joanne_NL,Joanne,Thompson,Liberal,95,1,96,0.735871,Liberal,6
+47,2937436849,2937436849,,,1,Shaun_Chen,Shaun,Chen,Liberal,19,0,19,0.10635399999999999,Liberal,6
+48,283226685,283226685,,,1,RachelBendayan,Rachel,Bendayan,Liberal,150,0,150,0.672697,Liberal,6
+49,45848808,45848808,,,1,GregFergus,Greg,Fergus,Liberal,71,7,78,0.300944,Liberal,6
+50,720579941184757760,720579941184757760,,,1,DLeBlancNB,Dominic,LeBlanc,Liberal,91,0,91,0.41967200000000005,Liberal,6
+51,22849568,22849568,,,1,SeamusORegan,Seamus,O'Regan,Liberal,246,3,249,1.0,Liberal,6
+52,1899063048,1899063048,,,1,gary_srp,Gary,Anandasangaree,Liberal,115,0,115,0.32512399999999997,Liberal,6
+53,579377522,579377522,,,1,LloydLongfield,Lloyd,Longfield,Liberal,25,1,26,0.236879,Liberal,6
+54,1646334073,1646334073,,,1,AHousefather,Anthony,Housefather,Liberal,125,1,126,0.466946,Liberal,6
+55,2242940071,2242940071,,,1,pablorodriguez,Pablo,Rodriguez,Liberal,33,0,33,0.562443,Liberal,6
+56,3257047456,3257047456,,,1,McDonald4Avalon,Ken,McDonald,Liberal,23,0,23,0.115673,Liberal,6
+57,20199202,20199202,,,1,OmarAlghabra,Omar,Alghabra,Liberal,211,0,211,0.739847,Liberal,6
+58,2891740872,2891740872,,,1,HonAhmedHussen,Ahmed,Hussen,Liberal,117,3,120,0.316761,Liberal,6
+59,488052222,488052222,,,1,SherryRomanado,Sherry,Romanado,Liberal,28,2,30,0.072895,Liberal,6
+60,272185225,272185225,,,1,fsorbara,Francesco,Sorbara,Liberal,118,1,119,0.22487800000000002,Liberal,6
+61,1072270926,1072270926,,,1,SeanFraserMP,Sean,Fraser,Liberal,26,0,26,0.091288,Liberal,6
+62,3188558830,3188558830,,,1,SoniaLiberal,Sonia,Sidhu,Liberal,108,2,110,0.215943,Liberal,6
+63,282526718,282526718,,,1,SvenTrueNorth,Sven,Spengemann,Liberal,68,0,68,0.096032,Liberal,6
+64,47692251,47692251,,,1,Yvan_Baker,Yvan,Baker,Liberal,29,0,29,0.143805,Liberal,6
+65,205786669,205786669,,,1,PamDamoff,Pam,Damoff,Liberal,118,3,121,0.345507,Liberal,6
+66,2678072299,2678072299,,,1,TimLouisKitCon,Tim,Louis,Liberal,46,0,46,0.283326,Liberal,6
+67,780323935,780323935,,,1,SophieChatel1,Sophie,Chatel,Liberal,19,1,20,0.131198,Liberal,6
+68,2848993491,2848993491,,,1,jyduclos,Jean-Yves,Duclos,Liberal,49,0,49,0.20368499999999998,Liberal,6
+69,276713213,276713213,,,1,s_guilbeault,Steven,Guilbeault,Liberal,70,2,72,0.303927,Liberal,6
+70,40550119,40550119,,,1,Carolyn_Bennett,Carolyn,Bennett,Liberal,193,8,201,0.546635,Liberal,6
+71,29754743,29754743,,,1,mary_ng,Mary,Ng,Liberal,213,3,216,0.15795599999999999,Liberal,6
+72,19634262,19634262,,,1,TonyVanBynen,Tony,Van Bynen,Liberal,31,0,31,0.11698499999999999,Liberal,6
+73,2332742508,2332742508,,,1,YaaraSaks,Ya'ara,Saks,Liberal,33,1,34,0.27009099999999997,Liberal,6
+74,272250877,272250877,,,1,PaulChiangMU,Paul,Chiang,Liberal,77,0,77,0.24224,Liberal,6
+75,631988630,631988630,,,1,MonaFortier,Mona,Fortier,Liberal,75,0,75,0.21072399999999997,Liberal,6
+76,61521038,61521038,,,1,karinagould,Karina,Gould,Liberal,147,1,148,0.426317,Liberal,6
+77,47338701,47338701,,,1,MarciIen,Marci,Ien,Liberal,192,0,192,0.410559,Liberal,6
+78,4026045455,4026045455,,,1,FilomenaTassi,Filomena,Tassi,Liberal,55,1,56,0.177607,Liberal,6
+79,415774799,415774799,,,1,VivianeLapointe,Viviane,LaPointe,Liberal,16,1,17,0.029539,Liberal,6
+80,524557553,524557553,,,1,viraniarif,Arif,Virani,Liberal,65,0,65,0.173796,Liberal,6
+81,2344419362,2344419362,,,1,SalmaZahid15,Salma,Zahid,Liberal,75,3,78,0.169595,Liberal,6
+82,2513973205,2513973205,,,1,JeanYip3,Jean,Yip,Liberal,59,1,60,0.201848,Liberal,6
+83,1382336580518621186,1382336580518621186,,,1,ElisabethBriere,Élisabeth,Brière,Liberal,11,1,12,0.310576,Liberal,6
+84,339752726,339752726,,,1,PascaleStOnge_,Pascale,St-Onge,Liberal,17,4,21,0.078555,Liberal,6
+85,911471588,911471588,,,1,mclaudebibeau,Marie-Claude,Bibeau,Liberal,13,0,13,0.057273000000000004,Liberal,6
+86,165812196,165812196,,,1,stevenmackinnon,Steven,MacKinnon,Liberal,5,0,5,0.010864,Liberal,6
+87,175259033,175259033,,,2,taylorbachrach,Taylor,Bachrach,NDP,60,0,60,0.46360500000000004,NDP,6
+88,215632349,215632349,,,2,CharlieAngusNDP,Charlie,Angus,NDP,378,3,381,0.657356,NDP,6
+89,341866567,341866567,,,2,LoriIdlout,Lori,Idlout,NDP,67,2,69,0.456031,NDP,6
+90,196717787,196717787,,,2,alexboulerice,Alexandre,Boulerice,NDP,112,2,114,0.380116,NDP,6
