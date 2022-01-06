@@ -7,6 +7,34 @@ Due to the limitations of the retweeting users’ endpoint, we could only obtain
 ### Data Collection
 Data was collected using Twitter's Developer API, See `Polished Code/get_tweet_from_user.py` to see how the tweets were collected and `Polished Code/getnetwork.py` to see how the retweeting users were collected.
 
-## Nodes 
+### Nodes 
+Nodes may be 
+1. Activist Organization (AO): A group representing a cause in Canada. This Activist Organization may retweet other Activist Organizations or MP’s. 
 
-## Edges 
+2. Members of Parliament (MP): A member of a political party, has an affiliated party attached to this node. This MP may retweet other MP’s or Activist Organizations 
+
+3. Retweeter: This is a user who has not been identified as an AO or MP, but rather is a user who retweets these other nodes. 
+
+### Edges 
+Edges are directed, they represent: “Source Retweets X tweets of Target” where X is a weight attached describing how many times Source retweeted Target. 
+
+## Network Visualization
+
+
+## Basic Statistics
+
+The network was comprised of 8984 nodes, and 14040 edges. Overall, the network is disconnected, containing 9 connected components, their sizes are: [8932, 10, 9, 8, 7, 4, 3]. The average path length of the largest connected component is 1.23 × 10-3 and its clustering coefficient is 9.61 × 10<sup>-3</sup>. This largest connected component was used as the size reference for the null models and is what the majority of the paper focuses on. The network displays properties of a scale free network as shown by the degree distributions. 
+
+Out-degree Distribution: The out degree had a fit of γ = 2.21 this shows that the out degree distribution follows the power law fairly well. The error was 0.012 according to the powerlaw python library’s fit function 
+
+## Experiments Run
+
+### Community Analysis
+Community analysis was done using the greedy_modularity_communities algorithm provided by NetworkX. We tried various resolution values to decrease the number of communities so we could have communities beyond only an MP or AO and their retweeters.  
+
+### Centrality Measures
+
+1. In
+
+### Information Cascades
+
