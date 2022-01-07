@@ -1,4 +1,7 @@
 # Canadian-Political-Diversification-Network-Analysis
+## Network Visualization
+![Network Visualization](https://github.com/kaitlin31415/Canadian-Political-Diversification-Network-Analysis/blob/main/ReadMeImages/visualization.png)
+
 Canadian Members of Parliament and Activist Organizations Twitter accounts retweets were analyzed for the brief period leading up to the 2021 federal elections. The object was to identify echo chambers that plague the scene and to find remedies in the form of bridge nodes that would serve to deliver a broader view for the people following. We believe doing so would reduce confirmation bias that is a leading cause for echo chambers, leading to a less polarized society. We found six main communities in Canadian politics, which we applied centrality measures, and information diffusion techniques to answer three research questions: 1. Given a user's interactions with political parties' tweets on Twitter, can we identify feedback loops created as a result of these politics-based interactions? 2. Can we identify activist organizations as non-partisan or partisan based on their interactions? 3. Can we identify users who have a wide breadth of interaction with different political groups? Our research helped us answer these questions to a certain extent, we can identify where the feedback loops are, place Activist Organizations on a political spectrum, and identify ways to combat confirmation bias by following certain Twitter accounts based on a few measures. We think this should help combat polarization in society and spark an open dialogue with people with different opinions.
 ## Research Paper
 Read the research paper here: [Canadian Political Diversification Through Network Analysis](https://github.com/kaitlin31415/Canadian-Political-Diversification-Network-Analysis/blob/main/Research%20Paper/Canadian_Political_Diversification_Network_Analysis.pdf)
@@ -19,8 +22,6 @@ Nodes may be
 ### Edges 
 Edges are directed, they represent: “Source Retweets X tweets of Target” where X is a weight attached describing how many times Source retweeted Target. 
 
-## Network Visualization
-![Network Visualization](https://github.com/kaitlin31415/Canadian-Political-Diversification-Network-Analysis/blob/main/ReadMeImages/visualization.png)
 
 ## Basic Statistics
 
